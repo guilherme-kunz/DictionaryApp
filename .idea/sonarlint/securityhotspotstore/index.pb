@@ -9,5 +9,3 @@ i
 Yapp/src/main/java/com/plcoding/dictionary/feature_dictionary/data/remote/DictionaryApi.kt,6/b/6bc98e794f0420c2e8b0c15e5bd3744039d0aaa7
 ç
 ]app/src/main/java/com/plcoding/dictionary/feature_dictionary/data/remote/dto/DefinitionDto.kt,b/b/bb039edeccad155fa12eeefc95931c4a36f56cc7
-ã
-[app/src/main/java/com/plcoding/dictionary/feature_dictionary/data/remote/dto/WordInfoDto.kt,3/d/3d9e69ec1364fbdfca4c5793a4a9e1eda5a1034f
